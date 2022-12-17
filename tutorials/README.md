@@ -96,7 +96,7 @@ Creating a GitHub account is simple. Just [sign up](https://github.com/signup?re
 5. Now, go to your laptop and browse your files: obviously, you still have the previous version of your project, i.e., the changes made from your VM are not visible on your laptop. To have the same version as your VM (and the remote one), you need to `pull` the changes: `git pull`.
 <br>
 
-6. Let us simulate a failure i.e., you *accidentally* delete your directory in one or both machines (your VM or your laptop). If you do so, recovery is as simple as just re-cloning the project, like in [step 3](https://github.com/bstellaceleste/ScientificDaysCameroon/edit/main/tutorials/README.md/#L75).
+6. Let us simulate a failure i.e., you *accidentally* delete your directory in one or both machines (your VM or your laptop). If you do so, recovery is as simple as just re-cloning the project, like in [step 3](https://github.com/bstellaceleste/ScientificDaysCameroon/edit/main/tutorials/README.md/plain=1#L75).
 <br>
 
 7. Let us now imagine that you pushed something you didn't want to. Don't panic! You can revert to the previous commit like this: `git reset --soft HEAD~`. This will move your project (remote) to the version before the unfortunate commit.
