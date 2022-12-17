@@ -100,3 +100,5 @@ GitHub is a cloud-based Git (a version control system) repository that helps you
 
 1. Let us now imagine that you `push` something you didn't want to. Don't panic! You can revert to the previous commit like this: `git reset --soft HEAD~`. This will move your project (remote) to the version before the unfortunate commit.
     > A '**--hard**' reset will also move your local files to the previous version. 
+
+    
