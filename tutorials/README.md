@@ -42,8 +42,7 @@ GitHub is a cloud-based Git (a version control system) repository that helps you
    sudo apt update
    sudo apt install git-all
    ```
-<br>
-
+   
 2. On Windows: 
    
    * Download the [windows installer](https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/Git-2.39.0-64-bit.exe) that we make available [here](resources/Git-2.39.0-64-bit.exe)
